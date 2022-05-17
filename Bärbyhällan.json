@@ -1,0 +1,18 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bårbyhällan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.48877,
+                    60.14311
+                ]
+            }
+        }
+    ]
+}
